@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p> Here we'll add a new agent this page can only be accessed from the admin panel, after clicking on agents </p> <img src="https://i.imgur.com/CdsdXVD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>We can make a new role by clicking roles underneath the agent tab. Here I'll make a role called Team lead ![image](https://github.com/IsaiahLawrence/post-install-config/assets/152194351/fabe39f5-4d8f-4d4e-b734-3ff84e195105)
+<p>We can make a new role by clicking roles underneath the agent tab. Here I'll make a role called Team lead <img src="https://i.imgur.com/DNQkmwt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
   </p>
 
 <br />
