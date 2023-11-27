@@ -17,17 +17,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Configure Roles (Admin,Agents)
-- Configure Teams
+- Configure Roles (Admin or Agents)
 - Configure SLAs
 - Add new users
-- Configure help Topics
+
 
 <h2>Configuration Steps</h2>
 
-<p> Here we'll add a new agent this page can only be accessed from the admin panel, after clicking on agents </p> <img src="https://i.imgur.com/CdsdXVD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>We can make a new role by clicking roles underneath the agent tab. Here I'll make a role called Team lead <img src="https://i.imgur.com/DNQkmwt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-  </p>
+<p> Here we'll add a new agent this agent can be added as any role. This page can only be accessed from the admin panel, after clicking on agents </p> <img src="https://i.imgur.com/CdsdXVD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<br />
+<p>We can make a new role by clicking roles underneath the agent tab. Here I'll make a role called Team lead the Permisions dropped down will allow me to give team lead the ability to assign tickets, close tickets etc.. We could make an admin account here as well and give it all privileges.  <img src="https://i.imgur.com/DNQkmwt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+</p> Here I can add an SLA  ![image](https://github.com/IsaiahLawrence/post-install-config/assets/152194351/e0dd7ccb-2075-45b8-ab88-6be1487d130e)
+
 
 <br />
 
