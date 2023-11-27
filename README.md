@@ -28,24 +28,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 <p>We can make a new role by clicking roles underneath the agent tab. Here I'll make a role called Team lead the Permisions dropped down will allow me to give team lead the ability to assign tickets, close tickets etc.. We could make an admin account here as well and give it all privileges.  <img src="https://i.imgur.com/DNQkmwt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
+<br />
+
 </p> 
-<p>Here I can add a SLA <img src="https://i.imgur.com/ZGkSFx9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> </p>
+<p>Here I can add a SLA
+  
+<img src="https://i.imgur.com/ZGkSFx9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> </p>
 
 <br />
 
-<p> Here is what it looks like when defining your SLA ![image](https://github.com/IsaiahLawrence/post-install-config/assets/152194351/a30c0031-6688-42f4-b050-9f28188ac3c4)
+<p> Here is what it looks like when defining your SLA on this page we can set severity, schedule, grace period, we can also turn on overdue alerts if they fall out of the grace period window. <img src="https://i.imgur.com/0rGJ9B3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
